@@ -30,3 +30,7 @@ https://docs.google.com/presentation/d/1_XP4jollXXoEJ8fd5edDPZiB3u3GKrt5qPkZ5gQ6
 [Резолв зависимых контекстов, бизнес слой через контексты](https://github.com/xnimorz/react-providers)
 
 [State library через контекст](https://github.com/diegohaz/constate)
+
+### Твиттер докладчика
+
+[@xnimorz](https://twitter.com/xnimorz)
