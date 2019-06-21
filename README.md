@@ -1,36 +1,37 @@
-# Материалы к докладу "Dependency Injection в React".
+# Dependency Injection in React
 
-Слайды доклада: 
+Presentation
 
 GoogleDocs: 
-https://docs.google.com/presentation/d/1_XP4jollXXoEJ8fd5edDPZiB3u3GKrt5qPkZ5gQ6_As/edit#slide=id.g5982968275_1_1048
+Русский язык: https://docs.google.com/presentation/d/1_XP4jollXXoEJ8fd5edDPZiB3u3GKrt5qPkZ5gQ6_As/edit
+English: https://docs.google.com/presentation/d/1SsjPDlUBcCVUxKrogklcbvO-sE0l8BU_Wvs1ZgB9UEY/edit?usp=sharing
 
-## Полезные ссылки:
+## Useful links:
 
 [Detailed explanation of the new React context](https://hackernoon.com/detailed-explanation-of-the-new-react-context-7d3c71185163)
 
-### Примеры из доклада:
+### Examples from the presentation:
 
-[Контекст глобален](https://codesandbox.io/s/context-is-global-2qssv)
+[Context is global](https://codesandbox.io/s/context-is-global-2qssv)
 
-[Переопределение контекста](https://codesandbox.io/s/override-context-pig1x)
+[Context override](https://codesandbox.io/s/override-context-pig1x)
 
-[Влияние контекста на компоненты](https://codesandbox.io/s/context-influences-to-components-jsmeu)
+[Context influence to components](https://codesandbox.io/s/context-influences-to-components-jsmeu)
 
-[Использование контекста для бизнес-логики. Оптимизация контекста](https://codesandbox.io/s/contextoptimizationfordatalayer-2qnvt)
+[Context usage as business and\or data layer. Context optimization](https://codesandbox.io/s/contextoptimizationfordatalayer-2qnvt)
 
-### Бонусный пример:
+### Bonus example:
 
-[Зависимость между изменениями контекста и глубиной дерева](https://codesandbox.io/s/context-propagation-base-4ymjf)
+[Dependency between context changes and components tree depth](https://codesandbox.io/s/context-propagation-base-4ymjf)
 
-### Инструменты для работы с контекстом:
+### Tools for context:
 
-[Оптимизация контекста через calculateChangedBits](https://github.com/theKashey/react-shallow-context)
+[Context optimization through calculateChangedBits](https://github.com/theKashey/react-shallow-context)
 
-[Резолв зависимых контекстов, бизнес слой через контексты](https://github.com/xnimorz/react-providers)
+[Context dependencies resolver](https://github.com/xnimorz/react-providers)
 
-[State library через контекст](https://github.com/diegohaz/constate)
+[State library via context](https://github.com/diegohaz/constate)
 
-### Твиттер докладчика
+### My twitter :)
 
 [@xnimorz](https://twitter.com/xnimorz)
