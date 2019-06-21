@@ -3,7 +3,9 @@
 Presentation
 
 GoogleDocs: 
+
 Русский язык: https://docs.google.com/presentation/d/1_XP4jollXXoEJ8fd5edDPZiB3u3GKrt5qPkZ5gQ6_As/edit
+
 English: https://docs.google.com/presentation/d/1SsjPDlUBcCVUxKrogklcbvO-sE0l8BU_Wvs1ZgB9UEY/edit?usp=sharing
 
 ## Useful links:
